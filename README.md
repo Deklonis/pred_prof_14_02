@@ -3,7 +3,7 @@
 
 
 ## Установакаи и запуск
-- В командной строке написать `git clone https://github.com/Deklonis/pred_prof_14_02`
+- Скачать репозиторий `git clone https://github.com/Deklonis/pred_prof_14_02`
 - Воспользоваться итерратором Python для запуска проекта
 ### Задача №1
 - Анализирует файл vacancy.csc
